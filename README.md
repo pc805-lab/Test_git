@@ -28,3 +28,9 @@ git commit -m “commit description” — Commit your staged changes with a des
 git push origin main — Push your committed changes to the main branch on GitHub
 
 git pull — Pull the latest changes from the remote repository to your local directory
+
+Creating / Checking my directory on Mac
+
+touch <> - create file in the current directory
+
+ls - list all items in the curent directory
